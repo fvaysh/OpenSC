@@ -1,5 +1,6 @@
 ﻿
 # Contributors
+- [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
 - [Aviraj Gour](https://github.com/avirajsingh7)
